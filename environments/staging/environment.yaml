@@ -48,7 +48,7 @@ app:
       value: "{aes}AIUxkkmTE73hJrAj3oN5OMYQnC9j3NWNJNTXXAchJ97qyrr7MHYMmn1NEtxgHXFqmYp8VNEAYhB5hJS8voLsRYyfA/7GpDdznGs/DtYEqzlw"
   # cloudwatch for metrics
 
-  version: "d3e301ec-ab4f-42cf-b384-a2970baac960"
+  version: "e7c787b2-9fb0-4112-a0c3-26fb4b9a1ac2"
 # probes
 # dynamic scaling
 # scaling to 0
