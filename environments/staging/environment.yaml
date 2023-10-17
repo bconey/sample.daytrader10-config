@@ -47,7 +47,7 @@ app:
     - name: clientSecret
       value: "{aes}AIUxkkmTE73hJrAj3oN5OMYQnC9j3NWNJNTXXAchJ97qyrr7MHYMmn1NEtxgHXFqmYp8VNEAYhB5hJS8voLsRYyfA/7GpDdznGs/DtYEqzlw"
   # cloudwatch for metrics
-  
+
   version: "d3e301ec-ab4f-42cf-b384-a2970baac960"
 # probes
 # dynamic scaling
