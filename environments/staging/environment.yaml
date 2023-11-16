@@ -34,7 +34,7 @@ app:
     - name: dbUser
       value: db2inst1
     - name: dbPass
-      value: "{aes}AODi7cxlV9GPtNrP8LvYf92NjqP1JwVoDx/XuQE3VkaGaFIWAGugwRWLft+zZaD2VQ=="
+      value: "{aes}ABARXQU0lz/C1YnwcCPnwR9HsKg5n3N1STdOF6n5DM2Q4wn1WpMKxzmriQnU/EQg1Q=="
   # List of variables that can be referenced in server.xml
   # Liberty encrypted values are supported
   variables:
